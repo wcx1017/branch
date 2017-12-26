@@ -2,6 +2,6 @@ body{
 	background:skyblue;
 }
 p{
-	color:red;
+	color:pink;
 	text-align
 }
