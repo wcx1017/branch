@@ -1,0 +1,7 @@
+body{
+	background:skyblue;
+}
+p{
+	color:red;
+	text-align
+}
